@@ -1,3 +1,6 @@
+# BGI_QuickGame
+Game using BGI lib in C
+
 Little game coded in C using the graphic.h header with the Borland Graphics Interface.
 
 What is this game.
